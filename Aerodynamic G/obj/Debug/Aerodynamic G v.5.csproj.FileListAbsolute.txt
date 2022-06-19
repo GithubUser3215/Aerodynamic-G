@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\bin\Debug\Aerodynamic G v.5.exe.config
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\bin\Debug\Aerodynamic G v.5.exe
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\bin\Debug\Aerodynamic G v.5.pdb
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\bin\Debug\EasyExploits.dll
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\bin\Debug\FastColoredTextBox.dll
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic G v.5.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic_G_v._5.Form1.resources
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic_G_v._5.Properties.Resources.resources
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic G v.5.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic G v.5.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic G v.5.csproj.CopyComplete
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic G v.5.exe
+C:\Users\Owner\source\repos\Aerodynamic G v.5\Aerodynamic G v.5\obj\Debug\Aerodynamic G v.5.pdb
